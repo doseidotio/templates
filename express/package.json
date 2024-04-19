@@ -1,0 +1,11 @@
+{
+  "name": "@dosei/express",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@dosei/dosei": "^0.0.1-a9",
+    "express": "^4.19.2"
+  }
+}
