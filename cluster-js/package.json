@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@dosei/dosei": "0.0.1-a20"
+  }
+}
