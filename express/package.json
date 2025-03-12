@@ -5,7 +5,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@dosei/dosei": "^0.0.1-a12",
-    "express": "^4.19.2"
+    "@dosei/dosei": "^0.0.1a23",
+    "express": "^4.21.2"
   }
 }

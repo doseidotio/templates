@@ -1,7 +1,7 @@
-const { Dosei } = require("@dosei/dosei/bin");
+const { Dosei } = require("@dosei/dosei");
 
 new Dosei({
     name: "express-app",
     port: 3000,
-    run: "node index.js"
+    command: "node index.js"
 });
